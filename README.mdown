@@ -1,0 +1,12 @@
+# k&r #
+
+WIP: this repository will contain my solutions to the exercises of "The C
+Programming Language" by Brian Kernighan and Dennis Ritchie.
+
+## Author ##
+
+Jacopo Notarstefano [(@Jaconotar)](https://twitter.com/Jaconotar)
+
+## License ##
+
+MIT
