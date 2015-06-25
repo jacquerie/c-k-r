@@ -1,0 +1,2 @@
+Give EOF before the first line ends: the lines will be miscounted as 0 instead
+of 1.
